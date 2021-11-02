@@ -1,0 +1,7 @@
+"id","firstName","lastName","email","address","city","state","age","gender","gender2"
+1,Mike,Smith,msmith@gmail.com,"22 Birch lane",Amesbury,Massachusetts,23,,male
+2,Kathy,Morris,kmorris@gmail.com,"40 Williow st",Haverhill,Massachusetts,45,,female
+3,Steven,Samson,ssamson@gmail.com,"12 Gills Rd",Exeter,New Hampshire,33,,male
+4,Lilian,Davidson,liliand@gmail.com,"7 Whittier st",Brooklyn,New York,20,,female
+5,Derek,Williams,dwill@gmail.com,"445 Madison ct",Yonkers,New York,64,,male
+7,John,Smith,john@egneto.com,Cyrilska 7,Brno,Czechia,26,,male

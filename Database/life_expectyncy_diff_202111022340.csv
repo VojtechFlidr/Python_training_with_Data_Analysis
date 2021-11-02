@@ -1,0 +1,244 @@
+"country","life_expectancy_diff"
+Afghanistan,28.43
+Africa,18.09
+Albania,12.18
+Algeria,27.7
+American Samoa,7.92
+Americas,12.78
+Andorra,12.05
+Angola,20.3
+Anguilla,17.98
+Antigua and Barbuda,12.08
+Argentina,10.55
+Armenia,6.31
+Aruba,8.29
+Asia,23.16
+Australia,11.97
+Austria,11.21
+Azerbaijan,10.16
+Bahamas,7.78
+Bahrain,18.37
+Bangladesh,23.46
+Barbados,11.53
+Belarus,3.71
+Belgium,10.46
+Belize,11.21
+Benin,20.99
+Bermuda,11.78
+Bhutan,33.67
+Bolivia,26.71
+Bonaire Sint Eustatius and Saba,9.53
+Bosnia and Herzegovina,13.48
+Botswana,15.79
+Brazil,18.38
+British Virgin Islands,13.54
+Brunei,15.88
+Bulgaria,3.74
+Burkina Faso,23.1
+Burundi,17.29
+Cambodia,26.55
+Cameroon,13.49
+Canada,10.26
+Cape Verde,21.77
+Cayman Islands,20.2
+Central African Republic,12.13
+Chad,13.79
+Channel Islands,11.16
+Chile,20.23
+China,26.38
+Colombia,16.75
+Comoros,20.02
+Congo,14.58
+Cook Islands,17.79
+Costa Rica,16.22
+Ivory Coast,15.95
+Croatia,11.24
+Cuba,11.61
+Curacao,10.92
+Cyprus,9.15
+Czech Republic,8.47
+The Democratic Republic of Congo,17.0
+Denmark,7.84
+Djibouti,17.97
+Dominica,11.82
+Dominican Republic,18.25
+Ecuador,20.47
+Egypt,20.76
+El Salvador,19.52
+Equatorial Guinea,19.15
+Eritrea,23.44
+Estonia,7.73
+Ethiopia,23.78
+Europe,8.09
+Faeroe Islands,8.04
+Falkland Islands,9.82
+Fiji,4.95
+Finland,11.83
+France,11.09
+French Guiana,17.45
+French Polynesia,18.54
+Gabon,22.26
+Gambia,26.81
+Georgia,7.28
+Germany,10.41
+Ghana,14.95
+Gibraltar,7.76
+Greece,11.83
+Greenland,10.03
+Grenada,8.28
+Guadeloupe,19.08
+Guam,15.7
+Guatemala,23.82
+Guinea,23.86
+Guinea-Bissau,17.95
+Guyana,8.11
+Haiti,18.65
+Honduras,24.95
+Hong Kong,14.11
+Hungary,6.74
+Iceland,8.93
+India,24.11
+Indonesia,21.14
+Iran,28.07
+Iraq,16.09
+Ireland,10.86
+Isle of Man,9.58
+Israel,10.96
+Italy,12.52
+Jamaica,7.68
+Japan,13.53
+Jordan,17.55
+Kazakhstan,10.69
+Kenya,14.98
+Kiribati,17.59
+Kuwait,12.2
+Kyrgyzstan,12.37
+Laos,21.82
+Latin America and the Caribbean,16.96
+Latvia,4.21
+Lebanon,14.06
+Lesotho,2.02
+Liberia,25.94
+Libya,21.82
+Liechtenstein,11.05
+Lithuania,4.09
+Luxembourg,12.1
+Macao,16.65
+North Macedonia,11.76
+Madagascar,23.19
+Malawi,24.05
+Malaysia,13.07
+Maldives,37.13
+Mali,28.02
+Malta,11.61
+Marshall Islands,16.7
+Martinique,18.47
+Mauritania,16.07
+Mauritius,12.04
+Mayotte,20.43
+Mexico,15.46
+Micronesia (country),10.6
+Moldova,7.62
+Monaco,14.49
+Mongolia,16.65
+Montenegro,9.43
+Montserrat,10.22
+Morocco,25.13
+Mozambique,16.38
+Myanmar,20.18
+Namibia,12.16
+Nauru,9.63
+Nepal,31.61
+Netherlands,8.16
+New Caledonia,17.23
+New Zealand,10.49
+Nicaragua,23.43
+Niger,25.2
+Nigeria,14.04
+Niue,9.15
+North Korea,17.22
+Northern America,8.91
+Northern Mariana Islands,14.63
+Norway,8.26
+Oceania,13.94
+Oman,30.22
+Pakistan,17.16
+Palau,13.96
+Palestine,21.09
+Panama,14.5
+Papua New Guinea,21.26
+Paraguay,8.87
+Peru,24.92
+Philippines,8.03
+Poland,8.65
+Portugal,15.81
+Puerto Rico,9.6
+Qatar,14.89
+Reunion,20.14
+Romania,7.71
+Russian Federation,3.02
+Rwanda,23.42
+Saint Barthlemy,19.02
+Saint Helena,14.58
+Saint Kitts and Nevis,14.89
+Saint Lucia,14.81
+Saint Martin (French part),18.9
+Saint Pierre and Miquelon,12.43
+Saint Vincent and the Grenadines,10.17
+Samoa,14.39
+San Marino,12.7
+Sao Tome and Principe,16.49
+Saudi Arabia,26.24
+Senegal,28.34
+Serbia,9.75
+Seychelles,8.6
+Sierra Leone,19.35
+Singapore,15.99
+Sint Maarten (Dutch part),10.84
+Slovakia,6.17
+Slovenia,11.45
+Solomon Islands,20.02
+Somalia,16.94
+South Africa,12.36
+South Korea,24.33
+South Sudan,23.03
+Spain,12.27
+Sri Lanka,14.74
+Sudan,14.17
+Suriname,9.9
+Swaziland,9.87
+Sweden,8.44
+Switzerland,11.08
+Syria,14.81
+Taiwan,13.8
+Tajikistan,17.97
+Tanzania,18.12
+Thailand,18.96
+Timor,32.19
+Togo,16.45
+Tokelau,15.3
+Tonga,8.56
+Trinidad and Tobago,9.03
+Tunisia,30.1
+Turkey,27.5
+Turkmenistan,11.1
+Turks and Caicos Islands,16.29
+Tuvalu,14.98
+Uganda,14.05
+Ukraine,1.14
+United Arab Emirates,20.76
+United Kingdom,9.68
+United States,8.72
+United States Virgin Islands,12.36
+Uruguay,8.85
+Uzbekistan,10.2
+Vanuatu,18.18
+Vatican,17.39
+Venezuela,10.17
+Vietnam,13.15
+Wallis and Futuna,19.99
+Western Sahara,28.96
+World,18.41
+Yemen,33.91
+Zambia,13.39
+Zimbabwe,4.26

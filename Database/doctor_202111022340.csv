@@ -1,0 +1,6 @@
+"id","name","surname","address_id","phone_number","email"
+1,Jan,Doktor,1,+420 123 456 789,doktor@engeto.cz
+2,Jan,Doktor,1,+420 123 456 789,doktor@engeto.cz
+3,Petr,Pacient Doktor,2,+420 123 456 789,doktor2@engeto.cz
+4,Jan,Doktor,1,+420 123 456 789,doktor@engeto.cz
+5,Petr,Pacient Doktor,2,+420 123 456 789,doktor2@engeto.cz

@@ -1,0 +1,10 @@
+"id","name","surname","address_id","insurance_company"
+1,Petr,Pacient,2,Engeto insurance
+2,Libor,Pacient,3,Engeto insurance
+3,Stanislav,Pacient,3,State insurance
+4,Petr,Pacient Doktor,2,Engeto insurance
+5,Libor,Pacient,3,Engeto insurance
+6,Stanislav,Pacient,3,State insurance
+7,Petr,Pacient Doktor,2,Engeto insurance
+8,Libor,Pacient,3,Engeto insurance
+9,Stanislav,Pacient,3,State insurance
